@@ -1,4 +1,5 @@
 ### shopping
+[![Build Status](http://build.eberlein.io:8080/job/android_shopping/badge/icon)](http://build.eberlein.io:8080/job/android_shopping/)
 #### why?
 so we don't forget to buy stuff and get bummed at home.
 #### features
